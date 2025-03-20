@@ -12,10 +12,10 @@
 
 <img align ="right" src = "https://raw.githubusercontent.com/pratik-kale20/pratik-kale20/main/linux.png" width="250" height="250">
 
-- 🌱 I’m currently learning Flutter
-- 🤔 I’m looking for help with Firebase
+- 🌱I'm currently learning Pawn
+- 🤔 I'm looking for help with C++
 - 😄 Pronouns: He/His
-- 📫 How to reach me: ppkale@mitaoe.ac.in
+- 📫 How to contact me: support@spenset.com
 <br></br>
 
 <h2><img src="https://media.giphy.com/media/VdoIFLsMIlwzfKD520/giphy.gif" height="20"> Stuff I Know</h2>                                                                                                                       
