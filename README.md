@@ -13,7 +13,7 @@
 <img align ="right" src = "https://raw.githubusercontent.com/pratik-kale20/pratik-kale20/main/linux.png" width="250" height="250">
 
 - 🌱I'm currently learning Pawn
-- 🤔 I'm looking for help with C++
+- 🚗 passionate about cars
 - 😄 Pronouns: He/His
 - 📫 How to contact me: support@spenset.com
 <br></br>
