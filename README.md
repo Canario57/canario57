@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/pratik-kale20/pratik-kale20/main/namecard.png">
+![image](https://github.com/user-attachments/assets/b2a3fde0-2339-42c2-8aab-22f2ce3680f4)<img src="[https://raw.githubusercontent.com/pratik-kale20/pratik-kale20/main/namecard.png](https://cdn.discordapp.com/attachments/1350567445483487263/1352130058352984155/banner.png?ex=67dce4bf&is=67db933f&hm=b5ddccda7a706345e01de2a6ae0d0f1f849ea44951a2b086666eebfe3156b7fe&)">
 
 
 <h2><img src="https://media.giphy.com/media/2Wg89Ea84IMmkxMngo/giphy.gif" height="20"> My Socials</h2>
